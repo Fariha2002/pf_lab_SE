@@ -1,2 +1,3 @@
 # pf_lab_SE
-Just another repository
+Just another repository 
+basics of programming
